@@ -1,0 +1,25 @@
+StateName,PNGFilename,TransitionText,NewState
+sleepy,assets/sleepy.png,not enough sleep,sicky
+sleepy,assets/sleepy.png,they didn't wake you up,angry
+sleepy,assets/sleepy.png,getting enough sleep,pleased
+angry,assets/angry.png,making up after the fight,lovey
+angry,assets/angry.png,forgetting what you are fighting about,spacedout
+angry,assets/angry.png,significant other is not listening in the fight,rage
+sicky,assets/sicky.png,questioning if I am pregnant,fear
+sicky,assets/sicky.png,getting soup from significant other,lovey
+sicky,assets/sicky.png,taking a lot of nyquil,spacedout
+lovey,assets/lovey.png,questioning what are we,fear
+lovey,assets/lovey.png,significant other lied about eating the last ice cream sandwhich,angry
+lovey,assets/lovey.png,thinking about the future together with significant other,pleased
+fear,assets/fear.png,thinking about how to pop the question,sleepy
+fear,assets/fear.png,overthinking about the outcomes of the relationship,sicky
+fear,assets/fear.png,finding out your significant other does not know what you are to them,rage
+rage,assets/rage.png,eating a snickers,pleased
+rage,assets/rage.png,silent treatment for over 24 hours,spacedout
+rage,assets/rage.png,fighting all night with significant other,sleepy
+spacedout,assets/spacedout.png,thinking about what to do after graduation,sleepy
+spacedout,assets/spacedout.png,the moment you are popping the question,fear
+spacedout,assets/spacedout.png,over 48 hours without no sleep,sicky
+pleased,assets/pleased.png,your significant other forgot to by more ice cream sandwhichs,angry
+pleased,assets/pleased.png,forgetting the ring at home,rage
+pleased,assets/pleased.png,giving your significant other their birthday present,lovey
