@@ -77,7 +77,7 @@ function keyPressed() {
 
 function drawBackground() {
   background(255,255,255);
-  textAlign(CENTER);
+  textAlign(LEFT);
 }
 
 function drawImage() {
